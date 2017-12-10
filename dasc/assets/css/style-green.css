@@ -762,7 +762,7 @@ h4,
 h5,
 h6 {
   font-family: "Lato", sans-serif;
-  font-weight: 300;
+  font-weight: 400;
   line-height: 120%;
   color: #21ba91;
   margin: 20px 0 17px 0;
@@ -3228,7 +3228,7 @@ a.thumbnail.active {
 .navbar-default .navbar-brand {
   font-size: 28px;
   font-weight: 300;
-  text-transform: lowercase;
+  text-transform: none;
   font-family: "Muli", sans-serif;
   word-spacing: -6px;
   -webkit-text-stroke: 0;
