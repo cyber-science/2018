@@ -20,7 +20,7 @@ IMPORTANT DATES
 --------------------------
 Workshop Proposal Due:  		Feb. 10, 2018
 Regular Paper Submission Due: 	Mar. 30, 2018
-Wksp/SS/Poster Paper Due:		May 05, 2018
+Wksp/SS/Poster Paper Due:		Apr. 30, 2018
 Authors Notification: 			May 20, 2018
 Camera-ready Submission:  		June 15, 2018
 
@@ -32,11 +32,11 @@ Regular Tracks
 	Track 3: Cyber Social Computing & Networks
 	Track 4: Cyber Intelligence, Life & Mind
 
-	Work-in-Progress Track
-		Report on early or ongoing research activities within the scope of CyberSciTech
+Work-in-Progress Track
+	Report on early or ongoing research activities within the scope of CyberSciTech
 
-	Poster/Demo Track
-		Describe a vision, technique or working system within the scope of CyberSciTech
+Poster/Demo Track
+	Describe a vision, technique or working system within the scope of CyberSciTech
 
 SUBMISSION GUIDELINES
 ----------------------------------
