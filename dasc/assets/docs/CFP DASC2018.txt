@@ -1,0 +1,127 @@
+We apologize in advance if you receive multiple copies of this DASC 2018 CFP.
+We appreciate your help if you forward this CFP to your colleague and email lists.
+
+==============CALL FOR PAPERS=================
+The 16th IEEE International Conference on Dependable, Autonomic and Secure Computing (DASC 2018)
+12-15 August 2018, Athens, Greece
+http://cyber-science.org/2018/dasc/
+==============================================
+
+-----------------------
+INTRODUCTION
+-----------------------
+IEEE DASC 2018 will be held in August 12-15, 2018 in Athens, Greece, co-located with IEEE CyberSciTech 2018, IEEE DataCom 2018 and IEEE PiCom 2018 (the event location is very close to the Parliament of Greece). 
+
+IEEE DASC 2018 aims to bring together computer scientists, industrial engineers, and researchers to discuss and exchange experimental and theoretical results, novel designs, work-in-progress, experience, case studies, and trend-setting ideas in the areas of dependability, security, trust and/or autonomic computing systems. Topics of particular interests include the following tracks, but are not limited to:
+
+-------------------------------
+SCOPE AND INTERESTS
+--------------------------------
+-  Dependable, Autonomic, Secure Computing Systems, Architectures and Communications
+-  Cloud Computing and Fog/edge Computing with Autonomic and Trusted Environment
+-  Dependable Automatic Control Techniques and Systems
+-  Dependable Sensors, Devices, Embedded Systems
+-  Dependable Electronic-Mechanical Systems, Optic-Electronic Systems
+-  Self-improvement in Dependable Systems
+-  Self-healing, Self-protection and Fault-tolerant Systems
+-  Hardware and Software Reliability, Verification and Testing
+-  Software Engineering for Dependable Systems
+-  Safety-critical Systems in Transportation and Power System
+-  Security Models and Quantifications
+-  Trusted P2P, Web Service, SoA, SaaS, EaaS, and PaaS
+-  Self-protection and Intrusion-detection in Security
+-  DRM, Watermarking Technology, IP Protection
+-  Context-aware Access Control
+-  Virus Detections and Anti-Virus Techniques/Software
+-  Cyber Attack, Crime and Cyber War
+-  Human Interaction with Trusted and Autonomic Computing Systems
+-  Security, Dependability and Autonomic Issues in Ubiquitous Computing
+-  Security, Dependability and Autonomic Issues in Cyber-Physical System
+-  Security, Dependability and Autonomic Issues in Big Data, SDN, and IoT Systems
+-  QoS in Communications and Services and Service Oriented Architectures
+-  Information and System Security
+-  Reliable Computing and Trusted Computing
+-  Wireless Emergency and Security Systems
+-  Information Technology in Biomedicine
+-  Multimedia Security Issues over Mobile and Wireless Networks
+-  Multimedia in Mobile Computing: Issues, System Design and Performance Evaluation
+-  Software Architectures and Design for Emerging Systems
+-  Software Engineering for Emerging Networks, Systems, and Mobile Systems
+-  Evaluation Platforms for Dependable, Autonomic and Secure Computing Systems
+-  Trustworthy Data, Secured Data Collection System, Model, and Architectures 
+
+---------------------
+IMPORTANT DATES
+---------------------
+Workshop/Special Session Proposal Due: Feb. 10, 2018 
+Paper Submission Due: Mar. 30, 2018 
+Demo/Poster/WiP Submission Due:	April 30, 2018
+Author Notification: May 20, 2018
+Camera-ready Paper Due:	June 15, 2018
+
+---------------------------------------------------------
+SUBMISSION AND PUBLICATION INFORMATION
+---------------------------------------------------------
+Authors are invited to submit their original research work using IEEE CS Proceedings format via DASC 2018 website: http://cyber-science.org/2018/dasc/sub/. 
+Research paper (8 pages) should explore a specific technology problem and propose a complete solution to it, with experimental results. Work-in Progress (WiP) Papers (5~6 pages) and Demo/Poster papers (2~4 pages) must describe working systems within the scope of DASC. Workshop & Special Session papers (6 pages) need to be submitted to corresponding workshops & special sessions. 
+* Accepted papers will be included into the proceedings published by IEEE Computer Society Press (EI indexed). 
+* At least one of the authors of any accepted paper is required to register and present the paper at the conference. 
+* Extended versions of selected papers will be considered for fast-track publication in some prestige journals (SCI/EI indexed). 
+* Best Paper Awards will be given for the best papers in DASC 2018. 
+
+--------------------------------
+Organizing Committees
+--------------------------------
+General Chairs 
+Md Zakirul Alam Bhuiyan, Fordham University, USA
+Stefanos Gritzalis, University of the Aegean, Greece
+
+General Executive Chairs
+Klimis Ntalianis, Athens U of Applied Sciences, Greece
+Paulo Pires, Federal University of Rio de Janeiro, Brazil
+
+Program Chair 
+Anna Kobusinska, Poznan University of Technology, Poland
+
+Program Co-Chairs
+Naohiro Hayashibara, Kyoto Sangyo University, Japan
+Kambourakis Georgios, University of the Aegean, Greece 
+Tian Wang, Huaqiao University, China
+
+Workshop/Special Session Chairs
+Konsts Lambrinoudakis, University of Piraeus, Greece
+Al-Sakib Khan Pathan, Southeast University, Bangladesh
+Tatsuhiro Tsuchiya, Osaka University, Japan
+
+Demo/Poster/WiP Chairs
+Taufiq Asyhari, Cranfield University, UK
+Rukhsana Afroz Ruby, SIAT, China
+
+Publicity Chairs
+Wenjia Li, New York Institute of Technology, USA
+Constantinos Patsakis, University of Piraeus, Greece
+Kenichi Kourai, Kyushu Institute of Technology, Japan
+Md. Arafatur Rahman, Univ Malaysia Pahang, Malaysia
+Shaikh M Arifuzzaman, University of New Orleans, USA
+
+Local Organizing Chair
+Nikolaos Mastorakis, Hellenic Naval Academy, Greece 
+
+Honorary Chair
+Alberto Del Bimbo, University of Firenze, Italy
+
+Advisory Committee Chairs
+Nobuyasu Kanekawa, Hitachi, Ltd., Japan
+Mohammed Atiquzzaman, University of Oklahoma, USA
+Yi Pan, Georgia State University, USA
+
+Steering Committee
+Jianhua Ma (Chair), Hosei University, Japan
+Laurence T. Yang (Chair), SFX University, Canada
+Tadashi Dohi, Hiroshima University, Japan
+Yuanshun Dai, Univ. of Electronic Sci. & Tech. of China
+Stephen S. Yau, Arizona State University, USA
+
+Please visit the DASC 2018 Website 
+http://cyber-science.org/2018/dasc/
+for the complete listing of organizing committee and TPC members.
