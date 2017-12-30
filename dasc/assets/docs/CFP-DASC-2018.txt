@@ -88,7 +88,7 @@ Naohiro Hayashibara, Kyoto Sangyo University, Japan
 Kambourakis Georgios, University of the Aegean, Greece 
 Tian Wang, Huaqiao University, China
 
-Workshop/Special Session Chairs
+Workshop/ Special Session Chairs
 Konsts Lambrinoudakis, University of Piraeus, Greece
 Al-Sakib Khan Pathan, Southeast University, Bangladesh
 Tatsuhiro Tsuchiya, Osaka University, Japan
@@ -107,8 +107,9 @@ Shaikh M Arifuzzaman, University of New Orleans, USA
 Local Organizing Chair
 Nikolaos Mastorakis, Hellenic Naval Academy, Greece 
 
-Honorary Chair
+Honorary Chairs
 Alberto Del Bimbo, University of Firenze, Italy
+Vincenzo Piuri, University of Milan, Italy
 
 Advisory Committee Chairs
 Nobuyasu Kanekawa, Hitachi, Ltd., Japan
