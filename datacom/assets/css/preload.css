@@ -26,3 +26,20 @@ body {
     margin:-100px 0 0 -100px; /* is width and height divided by two */
 }
 /*# sourceMappingURL=preload.css.map */
+div.datacom-title {
+    font-size: 1.7em;
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    line-height: 120%;
+    color: #000000;
+}
+div.left{
+    float:left;
+    padding-top: 17px;
+
+}
+div.right{
+    float:right;
+    padding-top: 10px;
+    padding-bottom: 17px;
+}
