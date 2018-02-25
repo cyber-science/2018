@@ -7,6 +7,68 @@ The 16th IEEE International Conference on Dependable, Autonomic and Secure Compu
 http://cyber-science.org/2018/dasc/
 ==============================================
 
+---------------------
+Special Issues Section
+
+Distinguished papers, after further revisions, will be published in 15+ ISI/SCI/EI indexed special issues* (to be confirmed). Special issues will be shared by IEEE DASC 2018 and its four co-located conferences (CyberSciTech 2018, PiCom 2018, DataCom 2018) and their associated Symposiums/Workshops.
+
+(1) Information Fusion - Elsevier (SCI & EI Indexed, Impact Factor: 5.667)
+https://www.journals.elsevier.com/information-fusion/
+
+(2) Information Sciences - Elsevier (SCI & EI Indexed, Impact Factor: 4.832)
+http://www.journals.elsevier.com/information-sciences/
+
+(3) Future Generation Computer Systems - Elsevier (SCI & EI Indexed, Impact Factor: 3.997)
+http://www.journals.elsevier.com/future-generation-computer-systems/
+
+(4) Journal of Network and Computer Applications - Elsevier (SCI & EI Indexed, Impact Factor: 3.500)
+https://www.journals.elsevier.com/journal-of-network-and-computer-applications/
+
+(5) Computer Communications - Elsevier (SCI & EI Indexed, Impact Factor: 3.338)
+https://www.journals.elsevier.com/computer-communications/
+
+(6) IEEE Access (SCI & EI Indexed, Impact Factor: 3.244)
+http://ieeeaccess.ieee.org/
+
+(7) Ad Hoc Networks - Elsevier (SCI & EI Indexed, Impact Factor: 3.047)
+https://www.journals.elsevier.com/ad-hoc-networks/
+
+(8) Soft Computing -  Springer (SCI & EI Indexed, Impact Factor: 2.472)
+https://link.springer.com/journal/500
+
+(9) Wireless Communications and Mobile Computing - Hindawi (SCI & EI Indexed, Impact Factor: 1.899)
+https://www.hindawi.com/journals/wcmc/
+
+(10) International Journal of Parallel Programming - Springer (SCI & EI Indexed, Impactor Factor: 1.156)
+https://link.springer.com/journal/10766
+
+(11) Journal of Computer Science and Technology - Springer (SCI & EI Indexed, Impactor Factor: 0.956)
+http://www.springer.com/computer/journal/11390
+
+(12) Journal of Ambient Intelligence and Smart Environments - IOS (SCI & EI Indexed, Impactor Factor: 0.809)
+https://www.iospress.nl/journal/journal-of-ambient-intelligence-and-smart-environments/
+
+(13) IEICE Transactions  on Information and Systems - (SCI & EI Indexed, Impact Factor: 0.411)
+http://www.ieice.org/eng/
+
+(14) IEEE Cloud Computing - (EI Indexed)
+https://cloudcomputing.ieee.org/
+
+(15) Future Internet - MDPI (ESCI & EI Indexed)
+http://www.mdpi.com/journal/futureinternet
+
+(16) International Journal of Computational Science and Engineering (IJCSE) - INDERSCIENCE (ESCI & EI Indexed)
+http://www.inderscience.com/jhome.php?jcode=IJCSE
+
+(17) International Journal of Embedded Systems (IJES) - INDERSCIENCE (EI Indexed)
+http://www.inderscience.com/jhome.php?jcode=IJES
+
+(18) International Journal of High Performance Computing and Networking (IJHPCN) - INDERSCIENCE (EI Indexed)
+http://www.inderscience.com/jhome.php?jcode=ijhpcn
+
+* More special issues will be added later.
+-----------------------
+
 -----------------------
 INTRODUCTION
 -----------------------
@@ -53,7 +115,7 @@ SCOPE AND INTERESTS
 ---------------------
 IMPORTANT DATES
 ---------------------
-Workshop/Special Session Proposal Due: Feb. 10, 2018 
+Workshop/Special Session Proposal Due: Feb. 28, 2018 
 Paper Submission Due: Mar. 30, 2018 
 Demo/Poster/WiP Submission Due:	April 30, 2018
 Author Notification: May 20, 2018
