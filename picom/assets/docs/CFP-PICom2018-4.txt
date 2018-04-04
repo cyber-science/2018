@@ -1,0 +1,124 @@
+=====================CALL FOR PAPERS=============================
+
+                      IEEE PICom 2018    
+     The 16th IEEE International Conference on Pervasive Intelligence and Computing (PICom 2018)
+           http://cyber-science.org/2018/picom/
+          Athens, Greece, 12-15 August 2018
+Sponsored by IEEE, IEEE Computer Society and IEEE Technical Committee of Scalable Computing (TCSC)
+
+=================================================================
+
+IMPORTANT DATES (New)
+===============
+
+Regular Paper Submission Due:           April  30, 2018 
+Wksp/SS/Poster Paper Due:               May 20, 2018
+Authors Notification:                   June 15, 2018
+Camera-ready Submission & registration: June 30, 2018 
+
+
+INTRODUCTION
+=============
+
+Over the last fifty years, computational intelligence has evolved from logic-based artificial intelligence, nature-inspired soft computing, and social-oriented agent technology to cyber-physical integrated ubiquitous intelligence towards Pervasive Intelligence (PI). The International Conference on Pervasive Intelligence and Computing is intended to cover all kinds of these intelligent paradigms as well as their applications in various pervasive computing domains. PICom-2018 is the conference on Pervasive Intelligence and Computing, previously held as PCC (Las Vegas, USA, 2003 and 2004), PSC (Las Vegas, USA, 2005), PCAC (Vienna, Austria, 2006, and Niagara Falls, Canada, 2007), IPC-2007 (Jeju, Korea, December 2007), IPC-2008 (Sydney, Australia, December 2008), and since 2009 as the name PICom. IEEE PICom 2018 will be held on 12-15 August 2018 in Athens, Greece, co-located with IEEE CyberSciTech 2018, IEEE DASC 2018 and DataCom 2018. It aims to bring together computer scientists and engineers, to discuss and exchange experimental and theoretical results, work-in-progress, novel designs, and test-environments or test-beds in the important areas of Pervasive Intelligence and Computing.
+
+SCOPE AND TOPICS
+================
+
+Topics of interests include, but are not restricted to: 
+
+- 	Deep Learning and Deep Computation 
+- 	Big Data and Smart Data 
+- 	Brain-inspired Computing
+- 	Crowd Souring and Intelligence
+- 	Social Intelligence and Computing
+- 	Agent-based Computing 
+- 	Ubiquitous Intelligence
+- 	Cyber-Physical Computing 
+- 	The Internet of Things
+- 	Cloud of Things and Cloud of Sensors
+- 	Embedded HW, SW & Systems 
+- 	Pervasive Devices and RFIDs
+- 	Wearable Devices and Applications
+- 	Sensor Technology and Networks
+- 	Pervasive Networks/Communications 
+- 	Edge and Fog Computing 
+- 	Mobile Edge Computing (MEC)
+- 	Device Virtualization 
+- 	Privacy, Security and Trust 
+- 	Context-Aware Computing 
+- 	Mobile Data Mining 
+- 	Ubiquitous Data Mining 
+- 	Activity Recognition 
+- 	Cloud Computing
+- 	Services for Pervasive Computing 
+- 	Smart Cities and Smart Homes 
+- 	Intelligent Social Networking
+- 	Pervasive Technologies for ITS
+- 	HCI for Pervasive Computing 
+- 	Mobile Data Modeling
+- 	Middleware for Pervasive Computing
+- 	Intelligent/Smart IoT
+- 	Programming Abstractions for IoT
+- 	Semantic Analysis
+
+
+PAPER SUBMISSION GUIDELINE
+==========================
+
+Authors are invited to submit their original research work that has not previously been published or under review in any other venue. Papers should be prepared in IEEE CS Proceedings format and submitted via EDAS systems (https://edas.info/newPaper.php?c=24494). Research papers should explore a specific technology problem and propose a complete solution to it, with experimental results. A regular (full) paper is between 6-8 pages. A WiP, workshop, or special session paper should be between 4-6 pages and a poster paper should be between 2-4 pages. Some papers originally submitted as full can be accepted as short papers or posters during the review process. In such cases, the authors will need to reduce the paper accordingly when preparing the camera-ready version. At least one of the authors of any accepted paper is requested to register and present the paper at the conference. 
+
+
+
+SPECIAL ISSUES 
+========================== 
+Extended versions of selected excellent papers will be considered for fast-track publication in regular or special issues of prestigious journals. The following journals are already confirmed:
+
+1 - Information Fusion - Elsevier - Impact Factor: 5.667 (https://www.journals.elsevier.com/information-fusion/) 
+2 - World Wide Web journal - Springer (www.Springer.com/11280 ) -  Special Issue on Smart Computing and Cyber Technology for Cyberization 
+3 - MDPI Sensors (http://www.mdpi.com/journal/sensors/special_issues/Pervasive_Intelligence_Computing) -  Special Issue on "Pervasive Intelligence and Computing"
+
+
+
+
+
+ORGANISING COMMITTEE
+==========================
+General Chairs
+-Flavia C. Delicato, Federal U of Rio de Janeiro, Brazil
+-Nikolaos Doulamis, Nat Tech Univ. of Athens, Greece
+
+General Executive Chairs
+-Klimis Ntalianis, Athens U of Applied Sciences, Greece
+-Liqiang Wang, University of Central Florida, USA
+
+Program Chairs
+-Giancarlo Fortino, University of Calabria, Italy
+-Pietro Manzoni, Univ. Politecnica de Valencia, Spain
+-Qiang Yang, Zhejiang University, China
+-Vana Kalogeraki, Athens U of Economics and Business
+
+Workshop and Special Session Chairs
+-Tie Qiu, Dalian University of Technology, China
+-Andreas Panayides, University of Cyprus
+
+Publicity Chairs
+-Aline Carneiro Viana, INRIA, France
+-Kazuaki Tanaka, Kyushu Inst. of Technology, Japan 
+-Igor dos Santos, Federal U of Rio de Janeiro, Brazil
+-Wei Li, University of Sydney, Australia
+-Yaoqing Liu, Clarkson University, USA
+
+Local Arrangement Chair
+-Nikolaos Mastorakis, Hellenic Naval Academy, Greece
+
+Advisory Committee Chairs
+-Samee U. Khan, North Dakota State University, USA
+-Constantinos S. Pattichis, University of Cyprus
+
+Steering Committee
+-Jianhua Ma, Hosei University, Japan
+-Laurence T. Yang, St. Francis Xavier Univ., Canada
+-Adnan Al-Anbuky, Auckland U of Tech., New Zealand
+
+
