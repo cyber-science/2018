@@ -1,8 +1,6 @@
-CFP [Submission open]: The 3rd IEEE Cyber Science and Technology Congress (CyberSciTech) - Athens, Greece, 12-15 Aug. 2018
-	  
 [Our apologies if you receive multiple copies of this CFP]
 
-------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------
 
 The 3rd IEEE Cyber Science and Technology Congress (CyberSciTech 2018) 
 http://cyber-science.org/2018/ 
@@ -21,8 +19,9 @@ IEEE CyberSciTech 2018 is to continually offer a common platform for scientists,
 IMPORTANT DATES
 --------------------------
 Workshop Proposal Due:  		Feb. 10, 2018
-Regular Paper Submission Due: 		Apr. 30, 2018
-Wksp/SS/Poster Paper Due:		Apr. 30, 2018
+Regular Paper Submission Due: 	Apr. 30, 2018 (Extended)
+Wksp/SS Paper Due:				Apr. 30, 2018
+WiP/Poster Paper Due:			May 15, 2018
 Authors Notification: 			May 30, 2018
 Camera-ready Submission:  		June 15, 2018
 
@@ -41,11 +40,13 @@ Poster/Demo Track
 	Describe a vision, technique or working system within the scope of CyberSciTech
 	
 Special Issues
+	http://cyber-science.org/2018/si.html
 	World Wide Web Journal, Topic: "Smart Computing and Cyber Technology for Cyberization"
 	Information Systems Frontiers, Topic: "Mitigating Cyber Threats and Defense in Data Intensive Smart Cities"
 	Information Fusion, Topic: "Data Fusion in Heterogeneous Networks"
 	IEEE Access, Topic: "Towards Service-Centric Internet of Things (IoT): From Modeling to Practice"
 	Computers & Electrical Engineering, Topic: "Advanced Techniques and Emerging Trends in Cyber-Social Computing"
+	Information Sciences, "Safety and Security for Ubiquitous Computing and Communications"
 	
 Workshop and Special Sessions
 	http://cyber-science.org/2018/workshops-special-sessions.html
@@ -60,4 +61,4 @@ Tutorial
 
 SUBMISSION GUIDELINES
 ----------------------------------
-Authors are invited to submit their original work that has not previously been submitted or published in any other venue. Regular, work-in-progress (WiP), workshop/special session, poster papers all need to be in IEEE CS format and via EDAS https://edas.info/newPaper.php?c=24490. A regular paper is between 6-8 pages. A WiP, workshop, or special session paper should be between 4-6 pages and a poster paper should be between 2-4 pages.
+Authors are invited to submit their original work that has not previously been submitted or published in any other venue. Regular, Work-in-Progress (WiP), workshop/special session, poster papers all need to be in IEEE CS format and via EDAS https://edas.info/newPaper.php?c=24490. A regular paper is between 6-8 pages. A WiP, workshop, or special session paper should be between 4-6 pages and a poster paper should be between 2-4 pages.
